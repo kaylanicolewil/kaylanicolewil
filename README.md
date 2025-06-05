@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello, I'm Kayla!
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**kaylanicolewil/kaylanicolewil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an aspiring cybersecurity professional passionate about protecting digital assets and learning practical security skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m eager to grow my skills, collaborate with others, and contribute to open-source security projects. Feel free to explore my repositories and connect!
+
+## Objective
+
+I’m currently building a foundation in cybersecurity through courses and hands-on projects, exploring areas such as network security, vulnerability assessment, cryptography, and ethical hacking in order to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|                                               |                    |
+|                                               |                    |
+|                                               |                    |
+|                                               |                    |
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    
+</div>
+
+
+### SIEM
+<div>
+  https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat
+
+   
+</div>
+
+## Certifications
+https://img.shields.io/badge/CompTIA-Security%2B-red?logo=compTIA&logoColor=white
+
+
+## Projects
+- SOC Home Lab
+- Set up a Firewall Rule in pfSense
+- Build, Secure, and Protect a Web Application
