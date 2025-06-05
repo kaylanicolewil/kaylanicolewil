@@ -10,6 +10,11 @@ I’m eager to grow my skills, collaborate with others, and contribute to open-s
 
 I’m currently building a foundation in cybersecurity through courses and hands-on projects, exploring areas such as network security, vulnerability assessment, cryptography, and ethical hacking in order to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+    
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -24,21 +29,12 @@ I’m currently building a foundation in cybersecurity through courses and hands
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
 </div>
-
 
 ### SIEM
 <div>
-   <img src="![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat)
-
-   
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
 
 ## Projects
 - SOC Home Lab
