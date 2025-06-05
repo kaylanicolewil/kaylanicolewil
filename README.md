@@ -37,6 +37,6 @@ I’m currently building a foundation in cybersecurity through courses and hands
 </div>
 
 ## Projects
-- SOC Home Lab
-- Set up a Firewall Rule in pfSense
-- Build, Secure, and Protect a Web Application
+- SOC Home Lab 
+- Set up a Firewall Rule in pfSense https://docs.google.com/presentation/d/1xVqMIIpYzUp3WlQ2CrKfjZkknP37Vw0cCUGQqX7mcYU/edit?usp=sharing
+- Build, Secure, and Protect a Web Application https://docs.google.com/document/d/1VjxtFDEq35L5E_lSDFusQzY6_g7wQJ_NlrXiu_xNwvg/edit?usp=sharing
