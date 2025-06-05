@@ -36,7 +36,8 @@ I’m currently building a foundation in cybersecurity through courses and hands
 </div>
 
 ## Certifications
- <img src="![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=compTIA&logoColor=white)
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
 ## Projects
