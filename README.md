@@ -30,13 +30,13 @@ I’m currently building a foundation in cybersecurity through courses and hands
 
 ### SIEM
 <div>
-   <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat
+   <img src="![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat)
 
    
 </div>
 
 ## Certifications
- <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=compTIA&logoColor=white
+ <img src="![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=compTIA&logoColor=white)
 
 
 ## Projects
