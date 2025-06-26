@@ -1,5 +1,5 @@
 # Hello, I'm Kayla!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/kayla-wilson-589604310/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an aspiring cybersecurity professional passionate about protecting digital assets and learning practical security skills.
