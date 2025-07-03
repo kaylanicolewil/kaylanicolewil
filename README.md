@@ -35,8 +35,8 @@ I’m currently building a foundation in cybersecurity through courses and hands
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-00CCFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Sentinel Badge"/>
+</p>
 
 ## Projects
 - SOC Home Lab 
-- Set up a Firewall Rule in pfSense https://docs.google.com/presentation/d/1xVqMIIpYzUp3WlQ2CrKfjZkknP37Vw0cCUGQqX7mcYU/edit?usp=sharing
-- Build, Secure, and Protect a Web Application https://docs.google.com/document/d/1VjxtFDEq35L5E_lSDFusQzY6_g7wQJ_NlrXiu_xNwvg/edit?usp=sharing
